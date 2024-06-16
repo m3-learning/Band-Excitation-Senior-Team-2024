@@ -1,0 +1,3 @@
+[submodule "Band-Excitation/src/BandExcitation"]
+	path = Band-Excitation/src/BandExcitation
+	url = https://github.com/m3-learning/BandExcitation.git
